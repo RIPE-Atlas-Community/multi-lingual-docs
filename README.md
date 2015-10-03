@@ -1,16 +1,14 @@
 # multi-lingual-docs
-Documentation about RIPE Atlas in languages other then English
+Crowdsourced documentation about RIPE Atlas in languages other then English
 
 "You don't want a community full of people who don't read documentation" - so make the docs good #OSFeels" 
 
-Spanish
+"We need to lower the barriers in our industry to writing documentation @ericholscher #osfeels" 
 
-Italian
+"Documentation is more of an art than a science. @ericholscher #osfeels" 
 
-Russian
+Spanish = Espanol
 
-Japanese
+Italian = Italiano
 
-Polish
-
-
+Russain = Ruskii? 
