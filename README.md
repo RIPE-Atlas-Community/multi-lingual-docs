@@ -7,8 +7,10 @@ Crowdsourced documentation about RIPE Atlas in languages other then English
 
 "Documentation is more of an art than a science. @ericholscher #osfeels" 
 
-Spanish = Espanol
+Writing Great Documentation https://jacobian.org/writing/great-documentation/"
 
-Italian = Italiano
+Espanol = Spanish
 
-Russain = Ruskii? 
+Italiano = Italian 
+
+Russain, Polish, Japanese... 
