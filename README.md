@@ -1,5 +1,8 @@
 # multi-lingual-docs
-Crowdsourced documentation about RIPE Atlas in languages other then English
+
+Crowdsourced documentation about RIPE Atlas in languages other than English
+
+## Quotes
 
 "You don't want a community full of people who don't read documentation" - so make the docs good #OSFeels" 
 
@@ -8,9 +11,3 @@ Crowdsourced documentation about RIPE Atlas in languages other then English
 "Documentation is more of an art than a science. @ericholscher #osfeels" 
 
 Writing Great Documentation https://jacobian.org/writing/great-documentation/"
-
-Espanol = Spanish
-
-Italiano = Italian 
-
-Russain, Polish, Japanese... 
