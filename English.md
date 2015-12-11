@@ -1,6 +1,14 @@
-**2015**
+#2015
 
-    Blogs & Visualization
+###Blogs & Visualization
+
+*[Bjørn Bürger: Vortrag: Das RIPE ATLAS Projekt Ein weltumspannendes Sensornetzwerk für das Internet](https://glt15-programm.linuxtage.at/events/72.html)
+*[Bjørn Bürger: Vortrag: Das RIPE ATLAS Projekt Ein weltumspannendes Sensornetzwerk für das Internet](https://glt15-programm.linuxtage.at/events/72.html)
+*[Bjørn Bürger: Vortrag: Das RIPE ATLAS Projekt Ein weltumspannendes Sensornetzwerk für das Internet](https://glt15-programm.linuxtage.at/events/72.html)
+*[Bjørn Bürger: Vortrag: Das RIPE ATLAS Projekt Ein weltumspannendes Sensornetzwerk für das Internet](https://glt15-programm.linuxtage.at/events/72.html)
+*[Bjørn Bürger: Vortrag: Das RIPE ATLAS Projekt Ein weltumspannendes Sensornetzwerk für das Internet](https://glt15-programm.linuxtage.at/events/72.html)
+*[Monika Ermert: Experte beleuchtet den Zensur-Alltag in der Türkei] (http://www.heise.de/newsticker/meldung/Experte-beleuchtet-den-Zensur-Alltag-in-der-Tuerkei-2869533.html)
+
 
     - `Pier Carlo Chiodi: DNSSEC: ECDSA-aware resolvers seen by RIPE Atlas <https://blog.pierky.com/dnssec-ecdsa-aware-resolvers-seen-by-ripe-atlas/>`_
     - `Sunny Chendi: APNIC supporting deployment of Internet measurements project <http://blog.apnic.net/2015/03/10/apnic-supporting-deployment-of-internet-measurements-project/>`_
