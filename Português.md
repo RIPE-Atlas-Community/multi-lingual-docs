@@ -1,5 +1,6 @@
-**2015**
+#2015
 
-    Blogs e Visualização
+###Blogs e Visualização
 
-    - `LACNIC: RIPE Atlas en Latinoamérica y Caribe <http://www.lacnic.net/es/web/lacnic/ripe-atlas>`_
+[LACNIC: RIPE Atlas en Latinoamérica y Caribe](http://www.lacnic.net/es/web/lacnic/ripe-atlas)
+
