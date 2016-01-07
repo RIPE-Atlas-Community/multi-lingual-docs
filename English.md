@@ -2,7 +2,6 @@
 
 ###Blogs & Visualization
 
-
 * [Pier Carlo Chiodi: DNSSEC: ECDSA-aware resolvers seen by RIPE Atlas](https://blog.pierky.com/dnssec-ecdsa-aware-resolvers-seen-by-ripe-atlas/)
 * [Sunny Chendi: APNIC supporting deployment of Internet measurements project](http://blog.apnic.net/2015/03/10/apnic-supporting-deployment-of-internet-measurements-project/)
 * [Salim Gasmi: Visualising RIPE Atlas Anchor Measurements](https://labs.ripe.net/Members/salim_gasmi/visualising-ripe-atlas-anchor-measurements)
@@ -44,4 +43,6 @@
 * [ETH Zurich & IIJ: Quantifying Interference between Measurements on the RIPE Atlas platform](https://irtf.org/raim-2015-slides/mpt/holterbach.pdf)
 * [Emile Aben @ IEPG/IETF94: YA-IPv4/IPv6-C (yet another IPv4/ IPv6 comparison)](http://www.iepg.org/2015-11-01-ietf94/2015-10.iepg-v4v6.emileaben.pdf)
 
+###Video & Tutorial
 
+* [Vesna Manojlovic: Webinar: Advanced RIPE Atlas usage](https://www.youtube.com/watch?v=oJMFGuM0kMo)
