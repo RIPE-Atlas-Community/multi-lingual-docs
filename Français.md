@@ -1,5 +1,9 @@
 #2015
     
+###"Brochure"
+
+* https://github.com/RIPE-Atlas-Community/multi-lingual-docs/blob/master/RIPE%20Atlas%20probes%202015_French.pdf
+    
 ###Blogs et de Visualisation
 
 * [Pierre Col (2015): Et si vous installiez une sonde RIPE Atlas pour contribuer à mesurer la qualité de service d’Internet?](http://www.zdnet.fr/actualites/et-si-vous-installiez-une-sonde-ripe-atlas-pour-contribuer-a-mesurer-la-qualite-de-service-d-internet-39801231.htm)
