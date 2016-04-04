@@ -42,6 +42,7 @@
 * [Google: Calibrating web performance metrics](https://docs.google.com/presentation/d/11U_cy7uiyf2gYbiKuYmlNR06VTV20LQ8gjLuOHSSIA0/edit?pli=1#slide=id.gccc2608ef_0_593)
 * [ETH Zurich & IIJ: Quantifying Interference between Measurements on the RIPE Atlas platform](https://irtf.org/raim-2015-slides/mpt/holterbach.pdf)
 * [Emile Aben @ IEPG/IETF94: YA-IPv4/IPv6-C (yet another IPv4/ IPv6 comparison)](http://www.iepg.org/2015-11-01-ietf94/2015-10.iepg-v4v6.emileaben.pdf)
+* [Christopher Amin @ Menog16: RIPE Atlas Tutorial)](http://www.menog.org/presentations/menog-16/355-MENOG_16_-_RIPE_Atlas_Tutorial.pdf)
 
 ###Video & Tutorial
 
